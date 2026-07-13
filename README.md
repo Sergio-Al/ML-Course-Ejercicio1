@@ -18,7 +18,7 @@
 | CHAID, CART, ID3 | Mamani Poma Alexander Manuel | — |
 | M5, Learning Vector Quantization | Machaca Lamas Sergio Alejandro | [`m5_model_tree_demo_saml.ipynb`](m5_model_tree_demo_saml.ipynb), [`lvq_demo_saml.ipynb`](lvq_demo_saml.ipynb) |
 | K nearest neighbor, Self-Organizing Map | De los Rios Aliaga Mijaelha | [`k_nearest__neighbor.ipynb`](k_nearest__neighbor.ipynb), [`self_organizing_map.ipynb`](self_organizing_map.ipynb) |
-| Locally weighted learning, Support Vector Machines | Flores Velasquez Maritza Karen | — |
+| Locally weighted learning, Support Vector Machines | Flores Velasquez Maritza Karen | [`Locally_Weighted_Learning.ipynb`](Locally_Weighted_Learning.ipynb), [`SVM_BreastCancer.ipynb`](SVM_BreastCancer.ipynb) |
 
 ## Contenido de cada notebook
 
